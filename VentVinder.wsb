@@ -7,7 +7,7 @@
     </MappedFolder>
     <MappedFolder>
       <HostFolder>C:\VentVinder\ConfigFolder</HostFolder>
-      <SandboxFolder>D:\Tor Browser\Browser\TorBrowser\Data\Browser</SandboxFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\Browser\TorBrowser\Data\Browser</SandboxFolder>
       <ReadOnly>false</ReadOnly>
     </MappedFolder>
   </MappedFolders>
